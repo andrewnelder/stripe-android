@@ -3,6 +3,7 @@ package com.stripe.android.model.legacy;
 import com.stripe.android.validators.CardParamsValidator;
 import android.util.Log;
 
+@Deprecated
 public class Card {
 
     private String LOGGER_TAG = "Stripe :: LegacyCard";

@@ -1,6 +1,7 @@
 package com.stripe.android.model.legacy;
 import java.util.Date;
 
+@Deprecated
 public class Token {
 
     private Card legacyCard;
